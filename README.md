@@ -5,7 +5,7 @@ st is a simple terminal emulator for X which sucks less.
 ## Install
 
 ```
-git clone https://github.com/ChristianChiarulli/st.git
+git clone https://github.com/hd929/st.git
 cd st
 sudo make clean install
 ```
@@ -35,8 +35,3 @@ mv Xresources ~/.Xresources
 - scrollback
 - bold is not bright
 - external pipe (url opening using [this](https://github.com/LukeSmithxyz/st/blob/master/st-urlhandler) script)
-
-## TODO
-
-- more keybindings
-
