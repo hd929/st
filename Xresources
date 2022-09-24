@@ -1,0 +1,49 @@
+xterm*selectToClipboard: true
+xterm*disallowedWindowOps: 20,21,SetXProp
+*.font:	Fira Code:pixelsize=15:antialias=true:autohint=true;
+*.font2: Fira Code:pixelsize=15:antialias=true:autohint=true, JetBrainsMono Nerd Font:pixelsize=15,antialias=true:autohint=true;
+
+*.alpha: 0.95
+
+
+! colors
+
+! special
+*.foreground:   #c0caf5
+*.background:   #1a1b26
+*.cursorColor:  #c0caf5
+*.revCursorColor:  #555555
+
+! black
+*.color0:       #15161e
+*.color8:       #414868
+
+! red
+*.color1:       #f7768e
+*.color9:       #f7768e
+
+! green
+*.color2:       #9ece6a
+*.color10:      #9ece6a
+
+! yellow
+*.color3:       #e0af68
+*.color11:      #e0af68
+
+! blue
+*.color4:       #7aa2f7
+*.color12:      #7aa2f7
+
+! magenta
+*.color5:       #bb9af7
+*.color13:      #bb9af7
+
+! cyan
+*.color6:       #7dcfff
+*.color14:      #7dcfff
+
+! white
+*.color7:       #a9b1d6
+*.color15:      #c0caf5
+
+
